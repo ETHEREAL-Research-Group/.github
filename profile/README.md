@@ -12,7 +12,7 @@ ETHEREAL is dedicated to advancing the field of extended reality to enhance the 
 
 - Summary: Presents HoloBoard, an AR system designed to help nonspeaking autistic individuals transition to more independent communication by using a virtual letterboard. In a study with 23 participants, most were able to spell words and perform complex tasks without the need for a human assistant, demonstrating the system's potential to enhance autonomy and provide new social and educational opportunities.
 
-### 2. [Towards an Augmented Reality Agent to Support Communication for Nonspeaking Autistic People](https://doi.org/10.1145/3640543.364515)
+### 2. [Towards an Augmented Reality Agent to Support Communication for Nonspeaking Autistic People](https://doi.org/10.1145/3613905.3651063)
 
 - Summary: Describes the development of an AR system for nonspeaking autistic individuals to practice spelling using a virtual educator. By modeling interactions from recorded sessions, the virtual educator can effectively mimic a real educator, offering a more accessible and independent method for communication training.
 
