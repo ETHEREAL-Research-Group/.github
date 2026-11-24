@@ -8,7 +8,7 @@ ETHEREAL is dedicated to advancing the field of extended reality to enhance the 
 
 ## Key Publications
 
-### [Characterizing Human Prompting in Mixed Reality Spelling for Nonspeaking Autistic Users](https://doi.org.10.1145/3797867.3829013)
+### [Characterizing Human Prompting in Mixed Reality Spelling for Nonspeaking Autistic Users](https://doi.org/10.1145/3797867.3829013)
 Summary: This paper investigated how communication partner prompting changes systematically with task progress, serves different purposes at different points in interaction sequences, and prioritizes engagement and access over immediate accuracy. Qualitative findings further show that communication partners personalize phrasing and provide multimodal support that compensates for the MR system’s limitations, including fixed keyboard placement and lack of haptic feedback. These findings position human prompting as an adaptive support layer in MR-AAC and provide concrete guidance for designing future agents that better coordinate autonomous prompting with human support.
 
 ### [Grab-and-Release Spelling in XR: A Feasibility Study for Nonspeaking Autistic People Using Video-Passthrough Devices](https://doi.org/10.1145/3715336.3735719)
